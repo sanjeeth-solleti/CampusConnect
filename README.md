@@ -40,7 +40,3 @@
 
 This project was developed with the help of **AI prompting skills**, making development faster and smarter by generating efficient code, UI structures, and logic using AI tools.
 
----
-
-## 📁 Project Structure
-
